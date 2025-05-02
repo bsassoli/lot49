@@ -19,10 +19,10 @@
   ],
   "fonts": {
     "font_family": {
-      "primary": "Inter:wght@400;500;600;700",
-      "primary_type": "sans-serif",
-      "secondary": "Merriweather:wght@700;900",
-      "secondary_type": "sans-serif"
+      "primary": "Courier+Prime:wght@400;700",
+      "primary_type": "monospace",
+      "secondary": "Special+Elite:wght@400;700",
+      "secondary_type": "cursive"
     }
   }
 }

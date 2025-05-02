@@ -2,7 +2,7 @@
 import Logo from "@/components/core/Logo.astro";
 import ThemeToggle from "@/components/core/ThemeToggle.astro";
 import menu from "@/config/menu.json";
-
+import config from "@/config/config.json";
 export interface ChildNavigationLink {
   name: string;
   url: string;
@@ -23,7 +23,7 @@ const { pathname } = Astro.url;
   <nav class="navbar container">
     <!-- logo -->
     <div class="order-0">
-      <Logo />
+      <Logo src={config.site.logo}/>
     </div>
     <!-- navbar toggler -->
     <input id="nav-toggle" type="checkbox" class="hidden" />
