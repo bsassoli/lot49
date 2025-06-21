@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "lot49",
-    "base_url": "https://astro-starter.alfadev.io",
+    "base_url": "https://www.lot49.ai",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.ico",
@@ -13,18 +13,15 @@
 
   "params": {
     "footer_description": "Building cool things, one line of code (and a lot of coffee) at a time. Got questions? Or just bored? Reach out!",
-    "email": "diego.alfadev@gmail.com",
-    "location": "Somewhere on Earth, where the Wi-Fi is decent and the coffee is strong.",
-    "phone": "+704-555-0127 (but let's be honest, email is faster)",
-    "contact_form_action": "#",
-    "copyright": "Copyright © 2023 proudly crafted by [AlfaDev](https://github.com/diego-alfadev)"
+    "email": "info@lot49.ai",
+    "location": "Somewhere on Earth, where the Wi-Fi is decent and the coffee is strong."
 },
 
   "metadata": {
-    "meta_author": "alfadev",
-    "meta_image": "/images/lot49logo.png",
-    "meta_description": "alfadev-astro-starter is a starter template for Astro, the modern static site generator for the modern web.",
-    "meta_keywords": ["astro", "Astro Starter", "alfadev", "Diego Alfaro Sáez", "static site generator", "modern web", "astro template"],
-    "meta_application_name": "alfadev-astro-starter"
+    "meta_author": "lot49",
+    "meta_image": "/images/logo.png",
+    "meta_description": "",
+    "meta_keywords": [],
+    "meta_application_name": "lot49"
   }
 }
